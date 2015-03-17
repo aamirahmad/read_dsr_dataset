@@ -6,10 +6,15 @@ This package is a read module that asynchronously reads messages from the socrob
 In order to use this package please see thw wiki page of this package.
 https://github.com/aamirahmad/read_dsr_dataset/wiki
 
-== Where to download the socrob DSR dataset ==
-
+==================================
+Where to download the socrob DSR dataset
+==================================
 http://datasets.isr.ist.utl.pt/lrmdataset/PersonTrackingDataset/
 
-== Credits ==
+And dont forget to use our benchmarking tool ros package evaluate_dsr_dataset that you can download here https://github.com/aamirahmad/evaluate_dsr_dataset
+
+==================================
+Credits
+==================================
 
 I would like to thank David Sanz, André Mateus, Joao Mendes, Diogo Pires, Filipe Jesus and Joao Reis for their support in making this dataset possible!
