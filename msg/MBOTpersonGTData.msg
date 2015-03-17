@@ -1,0 +1,9 @@
+Header header
+string LeftFilename
+string RightFilename
+bool foundperson
+bool foundMBOT
+geometry_msgs/PoseWithCovariance poseMBOT
+geometry_msgs/PoseWithCovariance posePerson
+uint32 rightcamactive
+uint32 leftcamactive
