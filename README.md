@@ -11,7 +11,7 @@ Where to download the socrob DSR dataset
 ==================================
 http://datasets.isr.ist.utl.pt/lrmdataset/PersonTrackingDataset/
 
-And dont forget to use our benchmarking tool ros package evaluate_dsr_dataset that you can download here https://github.com/aamirahmad/evaluate_dsr_dataset
+And don't forget to use our benchmarking tool ros package evaluate_dsr_dataset that you can download here https://github.com/aamirahmad/evaluate_dsr_dataset
 
 ==================================
 Credits
