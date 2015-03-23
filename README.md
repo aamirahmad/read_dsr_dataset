@@ -1,7 +1,7 @@
 ==================================
 read_dsr_dataset
 ==================================
-This package is a read module that asynchronously reads messages from the socrob DSR dataset. The purpose of this package is to provide a quick and ready-to-start platform including template functions for developing and implementing perception related algorithms on the DSR dataset.
+This package is a read module that asynchronously reads messages from the socrob Domestic Service Robot (DSR) dataset. The purpose of this package is to provide a quick and ready-to-start platform including template functions for developing and implementing perception related algorithms on the DSR dataset.
 
 In order to use this package please see the wiki page of this package here:
 https://github.com/aamirahmad/read_dsr_dataset/wiki
